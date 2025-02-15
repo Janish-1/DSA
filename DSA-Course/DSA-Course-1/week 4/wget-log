@@ -1,7 +1,0 @@
---2024-05-16 13:04:42--  https://d3c33hcgiwev3.cloudfront.net/_ZJdhAhjR5iSXYQIY3eYdw_f54b7639f5de4b18b5e8df7a4b26b25a_Perfect_And_Cuckoo_Hashing___Data_Structures_Course-scribbles.pdf?Expires=1715990400
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving d3c33hcgiwev3.cloudfront.net (d3c33hcgiwev3.cloudfront.net)... 18.239.190.152, 18.239.190.204, 18.239.190.27, ...
-Connecting to d3c33hcgiwev3.cloudfront.net (d3c33hcgiwev3.cloudfront.net)|18.239.190.152|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2024-05-16 13:04:43 ERROR 403: Forbidden.
-
